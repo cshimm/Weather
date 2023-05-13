@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">City Name</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="city_temp">75</string>
+    <string name="weather_icon_content_desc">Weather Icon</string>
+</resources>
